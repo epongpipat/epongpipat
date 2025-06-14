@@ -1,16 +1,54 @@
-### Hi there 👋
+## Projects
+- [book] A Practical Extension of Introductory Statistics in Psychology using R (2019) [[github](https://github.com/rpsystats/practical-ext-of-intro-stats-in-psy-using-R)] [[url](https://rpsystats.com)]
 
-<!--
-**epongpipat/epongpipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lab-Specific Projects: KENROD
+
+Links to helpful functions for the Kennedy-Rodrigue lab
+
+<table>
+  <tr>
+    <td>Category</td>
+    <td>Item</td>
+    <td>GitHub</td>
+    <td>Website</td>
+  </tr>
+  <tr>
+    <td>General</td>
+    <td>Lab Wiki</td>
+    <td align="center"><a href="https://github.com/epongpipat/kennedy-rodrigue-wiki" target="_blank">🔗</td>
+    <td align="center"><a href="https://kennedy-rodrigue-wiki.readthedocs.org" target="_blank">🔗</td>
+  </tr>
+  <tr>
+    <td>General</td>
+    <td>bashHelperKennedyRodrigue</td>
+    <td align="center"><a href="https://github.com/epongpipat/bashHelperKennedyRodrigue" target="_blank">🔗</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>General</td>
+    <td>rHelperKennedyRodrigue</td>
+    <td align="center"><a href="https://github.com/epongpipat/rHelperKennedyRodrigue" target="_blank">🔗</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>General</td>
+    <td>moduleKennedyRodrigue</td>
+    <td align="center"><a href="https://github.com/epongpipat/moduleHelperKennedyRodrigue" target="_blank">🔗</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>study-dallas</td>
+    <td>convert-mri</td>
+    <td align="center"><a href="https://github.com/epongpipat/convert-mri_study-jlbs" target="_blank">🔗</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>study-pams</td>
+    <td>convert-mri</td>
+    <td align="center"><a href="https://github.com/epongpipat/convert-mri_study-pams" target="_blank">🔗</td>
+    <td align="center"></td>
+  </tr>
+</table>
