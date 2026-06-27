@@ -52,3 +52,51 @@ Links to helpful functions for the Kennedy-Rodrigue lab
     <td align="center"></td>
   </tr>
 </table>
+
+## Talks/Workshops
+<table>
+  <colgroup>
+    <col style="width: 200pt;">
+    <col style="width: 50%;">
+    <col style="width: auto;">
+    <col style="width: auto;">
+    <col style="width: auto;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Title</th>
+      <th>Location</th>
+      <th>GitHub</th>
+      <th>Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026-05</td>
+      <td>Quarto/Git Workshop for Post-Docs</td>
+      <td>Center for Vital Longevity, Behavioral and Brain Sciences, The University of Texas at Dallas</td>
+      <td><a href="https://github.com/epongpipat/proj-cvl-postdoc-quarto-git-workshop" target="_blank">🔗</a></td>
+      <td><a href="https://ekarinpongpipat.com/proj-cvl-postdoc-quarto-git-workshop" target="_blank">🔗</a></td>
+    </tr>
+    <tr>
+      <td>2022-10</td>
+      <td>Multi-Level Modeling Lab Workshop</td>
+      <td>Cognitive Neuroscience of Aging Laboratory
+  Center for Vital Longevity
+  Behavioral and Brain Sciences
+  The University of Texas at Dallas</td>
+      <td><a href="https://github.com/epongpipat/workshop-mlm" target="_blank">🔗</a></td>
+      <td><a href="https://ekarinpongpipat.com/workshop-mlm" target="_blank">🔗</a></td>
+    </tr>
+    <tr>
+      <td>2019-09</td>
+      <td>Assisted in an introduction to Git/GitHub Workshop with Dr. Micaela Chan</td>
+      <td>Center for Vital Longevity
+Behavioral and Brain Sciences
+The University of Texas at Dallas</td>
+      <td><a href="https://github.com/mychan24/git_github_workshop" target="_blank">🔗</a></td>
+      <td><a href="https://gitbookdown.dallasdatascience.com/" target="_blank">🔗</a></td>
+    </tr>
+  </tbody>
+</table>
