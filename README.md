@@ -82,19 +82,14 @@ Links to helpful functions for the Kennedy-Rodrigue lab
     <tr>
       <td>2022-10</td>
       <td>Multi-Level Modeling Lab Workshop</td>
-      <td>Cognitive Neuroscience of Aging Laboratory
-  Center for Vital Longevity
-  Behavioral and Brain Sciences
-  The University of Texas at Dallas</td>
+      <td>Cognitive Neuroscience of Aging Laboratory, Center for Vital Longevity, Behavioral and Brain Sciences, The University of Texas at Dallas</td>
       <td><a href="https://github.com/epongpipat/workshop-mlm" target="_blank">🔗</a></td>
       <td><a href="https://ekarinpongpipat.com/workshop-mlm" target="_blank">🔗</a></td>
     </tr>
     <tr>
       <td>2019-09</td>
       <td>Assisted in an introduction to Git/GitHub Workshop with Dr. Micaela Chan</td>
-      <td>Center for Vital Longevity
-Behavioral and Brain Sciences
-The University of Texas at Dallas</td>
+      <td>Center for Vital Longevity, Behavioral and Brain Sciences, The University of Texas at Dallas</td>
       <td><a href="https://github.com/mychan24/git_github_workshop" target="_blank">🔗</a></td>
       <td><a href="https://gitbookdown.dallasdatascience.com/" target="_blank">🔗</a></td>
     </tr>
